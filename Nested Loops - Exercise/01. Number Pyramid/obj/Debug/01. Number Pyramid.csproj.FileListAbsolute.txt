@@ -1,0 +1,7 @@
+D:\Git\C# - Basic\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\_01.Number_Pyramid.exe.config
+D:\Git\C# - Basic\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\_01.Number_Pyramid.exe
+D:\Git\C# - Basic\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\_01.Number_Pyramid.pdb
+D:\Git\C# - Basic\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\01. Number Pyramid.csproj.AssemblyReference.cache
+D:\Git\C# - Basic\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\01. Number Pyramid.csproj.CoreCompileInputs.cache
+D:\Git\C# - Basic\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\_01.Number_Pyramid.exe
+D:\Git\C# - Basic\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\_01.Number_Pyramid.pdb
